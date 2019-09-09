@@ -1,0 +1,16 @@
+{
+  "name": "MyFinancial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dioneijd/MyFinancial.git",
+  "author": "Dionei J. Delagnolo",
+  "license": "MIT",
+
+  "scripts": {
+    "test": "node src/index.js"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
